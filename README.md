@@ -20,4 +20,4 @@ Open cmd inside the folder
 -Run streamlit run Gas-app.py
 
 -Open the local URL: http://localhost:8501 in your browser
-![Uploading Capture4.PNG…]()
+
